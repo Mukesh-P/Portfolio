@@ -54,7 +54,8 @@ with st.container():
         st.subheader("E-Commerce Website")
         st.write("""
         An E-Commerce Website with many categories
-        Try now!!!
+        Still Under Process 
+        If you want You can Try now!!!
         """)
         st.markdown("[Visit Now!!!](https://cetch-up.streamlit.app/)")
 
