@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from streamlit-lottie import st_lottie
+from streamlit_lottie import st_lottie
 from PIL import Image
 
 st.set_page_config(page_title="Mukesh Portfolio", page_icon='Logo.png', layout='wide')
