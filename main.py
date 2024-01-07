@@ -56,7 +56,7 @@ with st.container():
         An E-Commerce Website with many categories
         Try now!!!
         """)
-        st.markdown("[Visit Now!!!](http://localhost:8501/)")
+        st.markdown("[Visit Now!!!](https://cetch-up.streamlit.app/)")
 
 with st.container():
     st.write('---')
